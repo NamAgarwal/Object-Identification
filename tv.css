@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#head{
+    color: rgb(11, 11, 11);
+    font-size: 20px;
+}
+#back{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    height: 30px;
+    width: 150px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+#backa{
+    color: rgb(24, 95, 114);
+}
+#header{
+    background-color: rgb(62, 25, 228);
+}
+#status, #number_of_objects{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 100px;
+}
